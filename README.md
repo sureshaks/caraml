@@ -13,6 +13,8 @@ The library currently has implementations of:
 
 - Logistic Regression
 
+- Softmax Regression
+
 - Linear Discriminant Analysis
 
 - Quadratic Discriminant Analysis
